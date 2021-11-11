@@ -2,7 +2,7 @@
 
 ## 下载地址：
 
-[app-release.apk](https://github.com/wlya/MIUI_Hacks/blob/main/app-release.apk)
+[app-release.apk](./blob/main/app-release.apk)
 
 
 ## 故事起源于1888狗东入手了个K40 12+256，激活了不能退了，再加上“又不是不能用”。
